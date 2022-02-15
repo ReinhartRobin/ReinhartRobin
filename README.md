@@ -15,6 +15,7 @@
 - Currently working with <a href="https://www.programmierfabrik.at/" target="_black">Programmierfabrik</a> as a Backend Developer to finish my thesis. 🏥
 - Looking for opportunities and collaborations in the field of full-stack development. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
+- More information about myself and my projects is on my <a href="https://reinhartrobin.github.io/" target="_black">portfolio</a>. 📑
 </p>
 
 <div align="center">
