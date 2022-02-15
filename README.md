@@ -16,9 +16,9 @@ I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer
     </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+![trophy](https://github-profile-trophy.vercel.app/?username=ReinhartRobin&row=1&no-bg=true)
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinhartRobin&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinhartRobin&theme=great-gatsby&layout=compact)](https://github.com/ReinhartRobin)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     
